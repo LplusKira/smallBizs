@@ -1,4 +1,5 @@
 #Goal: compare online malls
+
 ##[PCHome](http://boss.pcstore.com.tw/intro_flow_fee.htm):
 1. Transaction fee: 5%
 2. Late 00s layout

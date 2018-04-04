@@ -1,4 +1,5 @@
 #Goal: open a shop with PAYMENT SYSTEM & LOGISTICS restricted to Taiwan
+
 ##Options:
 1. Setup your own websites connecting to PAYMENT SYSTEMs' API + LOGISTICS' API
 2. Push your goods to online shopping mall
@@ -24,7 +25,7 @@
 - Require additional logins for end usrs
 - Possibility of the mall's shutdown (e.g. bankruptcy)
 3. examples:
-- [Some](http://tesa.today/article/1171)
+- [Some options](http://tesa.today/article/1171)
 - [mymy](http://open.mymy.tw/page.html?id=46)
 
 ###Direct sell on FB:
